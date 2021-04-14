@@ -2,9 +2,9 @@
 
 ## Stats
 
-![Top Langs](https://github-readme-stats-delta-lac.vercel.app/api/top-langs/?username=codecosm&langs_count=3&count_private=true&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codecosm&show_icons=true&theme=nightowl&layout=compact)
 
-![codecosm's github stats](https://github-readme-stats-delta-lac.vercel.app/api?username=codecosm&count_private=true&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codecosm&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ## socials
 [![a](https://i.postimg.cc/MK2Jt3zV/discord.png)](https://discord.gg/A3eThVG)
