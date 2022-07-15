@@ -1,4 +1,4 @@
-# hello i am paracosm :)
+# hi, im para :)
 
 ## Stats
 
