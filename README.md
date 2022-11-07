@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codecosm&show_icons=true&theme=nightowl&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codecosm)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codecosm&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 
 ## socials
 [![a](https://i.postimg.cc/MK2Jt3zV/discord.png)](https://discord.gg/PPaVWFm5wU)
