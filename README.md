@@ -12,4 +12,4 @@
 [![a](https://i.postimg.cc/t4qfmLwZ/twitter.png)](https://twitter.com/xparacosm)
 
 ## recently played on spotify
-[![spotify-github-profile]([![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fad0a3o7ou9oq2yegipb7umf1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=fad0a3o7ou9oq2yegipb7umf1&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fad0a3o7ou9oq2yegipb7umf1&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=fad0a3o7ou9oq2yegipb7umf1&redirect=true)
